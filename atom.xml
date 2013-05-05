@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[パないす]]></title>
+  <link href="http://hrfmsd.github.io/atom.xml" rel="self"/>
+  <link href="http://hrfmsd.github.io/"/>
+  <updated>2013-05-05T11:54:40+09:00</updated>
+  <id>http://hrfmsd.github.io/</id>
+  <author>
+    <name><![CDATA[hrfmsd]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://hrfmsd.github.io/blog/2013/05/05/test/"/>
+    <updated>2013-05-05T11:50:00+09:00</updated>
+    <id>http://hrfmsd.github.io/blog/2013/05/05/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
